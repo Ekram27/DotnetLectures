@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesStudy", "Delegates
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventStudy", "EventStudy\EventStudy.csproj", "{AF7C6130-58DB-43C7-9434-1551875960F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStudy", "ThreadStudy\ThreadStudy.csproj", "{DF9EBC91-CCBA-48CD-BE5E-B2D62C9189B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadStudy", "ThreadStudy\ThreadStudy.csproj", "{DF9EBC91-CCBA-48CD-BE5E-B2D62C9189B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnonymousFunctionAndLambdaExpressionStudy", "AnnonymousFunctionAndLambdaExpressionStudy\AnnonymousFunctionAndLambdaExpressionStudy.csproj", "{8086ABAF-FFB3-45AC-9445-2340A1D6769E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{DF9EBC91-CCBA-48CD-BE5E-B2D62C9189B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF9EBC91-CCBA-48CD-BE5E-B2D62C9189B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF9EBC91-CCBA-48CD-BE5E-B2D62C9189B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8086ABAF-FFB3-45AC-9445-2340A1D6769E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8086ABAF-FFB3-45AC-9445-2340A1D6769E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8086ABAF-FFB3-45AC-9445-2340A1D6769E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8086ABAF-FFB3-45AC-9445-2340A1D6769E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
